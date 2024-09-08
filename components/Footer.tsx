@@ -22,7 +22,7 @@ const Footer = () => {
         <p className="text-white-200 md:mt-10 my-5 text-center">
           Uniting passion and precision in Free Fire.
         </p>
-        <a href="mailto:contact@jsmastery.pro">
+        <a href="mailto:contact@anisphere.xyz">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}

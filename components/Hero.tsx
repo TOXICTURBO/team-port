@@ -60,9 +60,9 @@ const Hero = () => {
              where passion meets precision in the world of Free Fire. Our team is dedicated to dominating the battlegrounds and setting new standards in esports excellence.
           </p>
 
-          <a href="#players">
+          <a href="#about">
             <MagicButton
-              title="Players"
+              title="Join Us"
               icon={<FaLocationArrow />}
               position="right"
             />
