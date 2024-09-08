@@ -176,7 +176,7 @@ export const workExperience = [
     title: "RIS Hyper – The Leader",
     desc: "As the captain of RIS Esports, RIS Hyper is the versatile all-rounder who excels in every aspect of the game. With a deep understanding of strategy and a knack for adapting to any situation, RIS Hyper ensures the team stays coordinated and performs at their best",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "/458926194_1072304777587965_5150513650868430316_n-Photoroom.svg",
   },
   {
     id: 2,
@@ -190,7 +190,7 @@ export const workExperience = [
     title: "RIS Shark – The Rusher",
     desc: "RIS Shark is the aggressive force on the battlefield, leading the charge with unmatched speed and precision. Their fearless approach and ability to create chaos for the opposition make them an essential asset in securing key victories.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
+    thumbnail: "/48996933881_2f2b624267_k-1-1-Photoroom (1).svg",
   },
   {
     id: 4,
