@@ -197,7 +197,7 @@ export const workExperience = [
     title: "The Next Star – On the Horizon",
     desc: "While RIS Esports currently operates with a formidable trio, we’re excited to announce that our fourth member is on the way! This soon-to-be-revealed player will bring a fresh edge and dynamic energy to the team, adding a new layer of excitement to our lineup. Stay tuned as we prepare to unveil the newest addition to the RIS Esports roster!",
     className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    thumbnail: "/SAF-FIFA-eSports-Player-Kai-Photoroom (1).svg",
   },
 ];
 
