@@ -1,6 +1,5 @@
 import { FaLocationArrow } from "react-icons/fa6";
 
-import MagicButton from "./MagicButton";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 
@@ -60,12 +59,6 @@ const Hero = () => {
             where passion meets precision in the world of Free Fire. Our team is dedicated to dominating the battlegrounds and setting new standards in esports excellence.
           </p>
 
-          <a href="#about">
-            <MagicButton
-              title="Show my work"
-              icon={<FaLocationArrow />}
-              position="right"
-            />
           </a>
         </div>
       </div>
