@@ -60,7 +60,7 @@ const Hero = () => {
             where passion meets precision in the world of Free Fire. Our team is dedicated to dominating the battlegrounds and setting new standards in esports excellence.
           </p>
 
-          <a href="#about">
+          <a>
           </a>
         </div>
       </div>
