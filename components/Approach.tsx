@@ -13,11 +13,9 @@ const Approach = () => {
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
         {/* add des prop */}
         <Card
-          title="Planning & Strategy"
+          title="World Cup Ambitions"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+          des="RIS Esports is setting its sights on the ultimate prize: qualifying for the Free Fire World Cup representing India. We’re gearing up to showcase our skills on a global stage and prove our mettle against the best teams in the world. Stay tuned as we embark on this exciting journey to make our mark internationally!"
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -26,11 +24,9 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
+          title="Community Engagement"
           icon={<AceternityIcon order="Phase 2" />}
-          des="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way."
+          des="We’re excited to announce a new initiative to engage with the Free Fire community on a deeper level. We’ll be launching a series of matches open to all players, providing an opportunity to showcase their talent and potentially join the ranks of RIS Esports. This initiative aims to discover and nurture new talent while strengthening our connection with the gaming community."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -48,11 +44,9 @@ const Approach = () => {
           {/* <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" /> */}
         </Card>
         <Card
-          title="Development & Launch"
+          title="Transforming the Scene"
           icon={<AceternityIcon order="Phase 3" />}
-          des="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          des="At RIS Esports, we’re not just about competing; we’re committed to making a significant impact on the Free Fire community. Our plans include introducing innovative strategies and community-driven events that will redefine the esports landscape. We’re dedicated to bringing fresh energy and setting new benchmarks that will inspire and elevate the Free Fire experience for everyone."
         >
           <CanvasRevealEffect
             animationSpeed={3}
