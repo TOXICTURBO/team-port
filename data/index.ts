@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "RIS Esports has been officially recognized by Free Fire officials for their outstanding performance and strategic prowess. Their dedication to the game sets a high standard in the esports community.",
+    name: "Ryan Sweeney",
+    title: "Free Fire’s Global Community Manager",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "RIS Esports has earned a prestigious endorsement from Free Fire officials. Their remarkable performances and dedication to the game highlight their role as trailblazers in the Free Fire esports world.",
+    name: "Joseph Lim",
+    title: "Free Fire’s Regional Community Manager",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Congratulations to RIS Esports! Free Fire officials commend the team for their exceptional skills and consistent top-tier play. Their innovative strategies are a benchmark for success in the competitive scene.",
+    name: "Mia Wong",
+    title: "Free Fire’s Head of Global Esports",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "RIS Esports is honored to receive accolades from Free Fire officials. Their impressive gameplay and teamwork have not gone unnoticed, and they continue to be a leading force in the Free Fire esports arena.",
+    name: "Carlos Rodriguez",
+    title: "Free Fire’s Esports Events Coordinator",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "The Free Fire community celebrates RIS Esports for their remarkable achievements and sportsmanship. Official recognition from Free Fire underscores their commitment to excellence and their impact on the competitive landscape.",
+    name: "Lena Lee",
+    title: "Free Fire’s Marketing Director",
   },
 ];
 
@@ -173,29 +173,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "RIS Hyper – The Leader",
+    desc: "As the captain of RIS Esports, RIS Hyper is the versatile all-rounder who excels in every aspect of the game. With a deep understanding of strategy and a knack for adapting to any situation, RIS Hyper ensures the team stays coordinated and performs at their best",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "RIS BMF – The Mind Master",
+    desc: "RIS BMF is the strategic genius of the team, known for their sharp analytical skills and innovative tactics. Their ability to foresee opponents' moves and devise game-changing strategies makes them the mastermind behind RIS Esports' winning plays.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "RIS Shark – The Rusher",
+    desc: "RIS Shark is the aggressive force on the battlefield, leading the charge with unmatched speed and precision. Their fearless approach and ability to create chaos for the opposition make them an essential asset in securing key victories.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "The Next Star – On the Horizon",
+    desc: "While RIS Esports currently operates with a formidable trio, we’re excited to announce that our fourth member is on the way! This soon-to-be-revealed player will bring a fresh edge and dynamic energy to the team, adding a new layer of excitement to our lineup. Stay tuned as we prepare to unveil the newest addition to the RIS Esports roster!",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },

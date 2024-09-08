@@ -52,12 +52,12 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Transforming Concepts into Seamless User Experiences"
+            words="Welcome to RIS Esports!"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Welcome to RIS Esports, where passion meets precision in the world of Free Fire. Our team is dedicated to dominating the battlegrounds and setting new standards in esports excellence.
+            where passion meets precision in the world of Free Fire. Our team is dedicated to dominating the battlegrounds and setting new standards in esports excellence.
           </p>
 
           <a href="#about">
