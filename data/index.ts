@@ -183,7 +183,7 @@ export const workExperience = [
     title: "RIS BMF – The Mind Master",
     desc: "RIS BMF is the strategic genius of the team, known for their sharp analytical skills and innovative tactics. Their ability to foresee opponents' moves and devise game-changing strategies makes them the mastermind behind RIS Esports' winning plays.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
+    thumbnail: "/434650284_976829713802139_383782979242876411_n-Photoroom.svg",
   },
   {
     id: 3,
