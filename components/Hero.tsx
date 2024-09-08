@@ -57,9 +57,16 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            where passion meets precision in the world of Free Fire. Our team is dedicated to dominating the battlegrounds and setting new standards in esports excellence.
+             where passion meets precision in the world of Free Fire. Our team is dedicated to dominating the battlegrounds and setting new standards in esports excellence.
           </p>
 
+          <a href="#players">
+            <MagicButton
+              title="Players"
+              icon={<FaLocationArrow />}
+              position="right"
+            />
+          </a>
         </div>
       </div>
     </div>
